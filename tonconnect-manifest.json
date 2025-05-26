@@ -1,7 +1,7 @@
 {
   "name": "DBlog",
   "description": "Decentralized blog on TON",
-  "url": "https://dblog.github.io",
+  "url": "https://dropdxvd.github.io/dblog-manifest",
   "icons": [
     "https://raw.githubusercontent.com/ton-blockchain/ton-connect/master/packages/ui/assets/logo.svg"
   ]
