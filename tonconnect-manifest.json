@@ -1,7 +1,5 @@
 {
-  "name": "DBlog",
-  "url": "http://188.243.207.170:7732/",
-  "icons": [
-    "https://raw.githubusercontent.com/ton-blockchain/ton-connect/master/packages/ui/assets/logo.svg"
-  ]
+    "url": "http://188.243.207.170:7732/",
+    "name": "Dblog",
+    "iconUrl": "https://raw.githubusercontent.com/Incept10n/CoinFlip/master/manifest/funding.png"
 }
